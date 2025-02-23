@@ -1,2 +1,2 @@
 # Pex
-PDF Viewer and Editor for Windows
+Windows PDF Viewer and Editor
